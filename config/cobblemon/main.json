@@ -69,7 +69,7 @@
   "pastureMaxWanderDistance": 64,
   "pastureMaxPerChunk": 4.0,
   "maxInsertedFossilItems": 2,
-  "walkingInBattleAnimations": false,
+  "walkingInBattleAnimations": true,
   "battleWildMaxDistance": 12.0,
   "tradeMaxDistance": 12.0,
   "battlePvPMaxDistance": 32.0,

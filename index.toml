@@ -106,7 +106,7 @@ hash = "e4bb090387ffadf9c3cb5b6f43e9f77f2b9c42298d56497a90ea978fe1c45e6c"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "d08b5ae439dd0549e5d7dd8418b7f5724249a76d3d638e2c1967d8b249b1f0ba"
+hash = "9b50152843b3ec23a123819f27172d42225a3425aaec102b2240418122c2d565"
 
 [[files]]
 file = "config/cobblemon/unchained/hiddenBooster.json"
@@ -126,7 +126,7 @@ hash = "ede14e98d6640140b4401b13ca03455b3a76152d18b8f49f5003075e6aa0f4c3"
 
 [[files]]
 file = "config/cobblemonboxlink.json"
-hash = "00b28ea272a0d95a6c779ac1f96093c080047b6eb97526c898cfc2c0b0d40bd8"
+hash = "fc7096f72315c45fc29c0e190e0c74d5785f726ebf93053ee23262a450009a91"
 
 [[files]]
 file = "config/cobblemonchallenge-config.properties"
@@ -162,7 +162,7 @@ hash = "dcac5f768bd71b8d7b81b578711851207fca8da436a1bb8d8658697b6e3fb9a2"
 
 [[files]]
 file = "config/cobbleride/config.json"
-hash = "68f3b3cecfd0a403be3b762355b981b4637edc73e05dbd9fba1b8bb73aab8817"
+hash = "24534cf430260069c32ed53c5f81d69cad3878fda19b83b03a9526870ef8f1b7"
 
 [[files]]
 file = "config/cobbreeding/main.json"
@@ -210,7 +210,7 @@ hash = "a5be83f03a5189781ad52a81a9ff5ad02d86fb170601dc3f92c733692af09860"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "2e8f422ac50f319576cbe41dfc11fe7e23417f3f78a16e838d8520a0dafb0ac3"
+hash = "b90b04cb80e5c037a94e5aced5faf643e414efbc7f00bb9b80b1038397305a72"
 
 [[files]]
 file = "config/fallingtrees_client.json"
@@ -262,7 +262,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "1ef2f30933a9aaafa2aebf9acac9860c28669676378e310c4fa2f3beadcb8578"
+hash = "03ddca755618533e0688f56befc79729e4c11bf7d80a5d0f9e2eac20546d515e"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -278,15 +278,19 @@ hash = "f9f68a1557cdfab8394d2f4b54a2756d96451dcdddea4f5e04cb912b516ffa05"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "1a021d943722ce34ae789d27ad5e5c52e0947dad449600fc136d1cfd7f5ed2de"
+hash = "9aedf0502d1eaa97d30b323bdff58721532398965e2d577bd398fab7369c2b18"
+
+[[files]]
+file = "config/jade/server-plugin-overrides.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "da37e25ddcb3d84644549975cf6f4ff60ff34e0814917ed97af9672160f00c99"
+hash = "b2cb55a4cee3be3217de7f617efd4d5fc95fd3e73e74b34f12ad746ac0124828"
 
 [[files]]
 file = "config/jade/usernamecache.json"
-hash = "c596cbd0444496aefcad12faba43bfab3b6266674975860a3de16b50307c5bed"
+hash = "df1e753ae11a5a42e7d98579e30d1f91a5876280c94c13ea47b4987e541438ef"
 
 [[files]]
 file = "config/jei/blacklist.json"
@@ -294,7 +298,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "55825f7bfe42021359685b0cb698dbd2bcea0287b18739a37ae9165016b0bd09"
+hash = "6743d4831ecc2fb1f657899f3c1333c679f2b497f39be301575bfb6e3a4f10e3"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -322,7 +326,7 @@ hash = "fcb34cd2cce73795b4d0a6c10d6e2b528c6d64aef7782744149e30558c2a17f9"
 
 [[files]]
 file = "config/jei/world/server/Minecraft_Server_146f2bc/bookmarks.json"
-hash = "055914301390e4eb287724a76a72878b7559abc0683fda4be04be880aac99fd2"
+hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/justzoom/config.txt"
@@ -346,7 +350,7 @@ hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
 file = "config/mega_showdown-common.toml"
-hash = "8eb1ac50b2b0889174a775630e1d96d0830e5f4d34c2dc4c1f7a8455b28d299d"
+hash = "c90402688362b1e8107a3cc2c7fba5407a8671bd8ed46fbeafccead021f12f26"
 
 [[files]]
 file = "config/modelfix-client.json"
@@ -374,7 +378,7 @@ hash = "e260644cceed6bfc6d78f5302abc122946fcf089c843afe663d31d8f30c29562"
 
 [[files]]
 file = "config/rctmod-server.toml"
-hash = "a732e20a381998c0df53a391f7fb45803513b529bbeb2519fbbb6cc3e8d72205"
+hash = "3b05dd000e86cfe581eca6fae613f4b8d3169d3c8655d69421b8a6579cc88192"
 
 [[files]]
 file = "config/releaserewards.json"
@@ -446,11 +450,11 @@ hash = "20a722a82474b3491b31807e18d93f253c58e472c7c65c1913f921b78ee91063"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "1648f2f46d4742bf03fe3959a295baed36f7aa616fb64573077c0745c35e49fa"
+hash = "a938a6ff9c8ce160e388b1f64b93a90f0274b47b94d4f0aeab145e99f6ba0b04"
 
 [[files]]
 file = "config/spawn_notification.json"
-hash = "3dec817525a407ef70c1409ecf5e069f03b14e7ed8fe4886504d33776a5d7af0"
+hash = "c6d2bd25707aee6ded94ee5fd24f022b504572c0af29e59d25d90193c76718a1"
 
 [[files]]
 file = "config/tbcs-server.toml"
@@ -490,7 +494,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "68cc50e5efe5ca0ca1f51502e2b37da83ba9d326391d88c0b9cc1b9cfffe6032"
+hash = "6360a2296ff5b2200954be90a1dc924d8723f7acfad933554dfea99ed4defc6e"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -502,7 +506,7 @@ hash = "33afebdb8ef07a3d774086931dec8d899f4da7aeba5b448fd4eee540ba5e02a2"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "8af8e3ed328e8593f76aef5396a431747b256726c389c97c8ea6a08719af3f48"
+hash = "ef87a428e676f137b1508ef8b4577e30a5a5b861653740a77e7162e0b902b4c9"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -510,11 +514,11 @@ hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "4ed3f32c5d52577122ab622f358084cb107fb081ba5d1c488a3010122b473565"
+hash = "7dc6504cf15cad62cfd5340ea458a4adea9e6ff50367955173d08aa3b2a5af41"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "76239797bf685ce3eca8189781511516c2b9676465aabb34e708cdfbe5a404a1"
+hash = "91d179279d960ef0a142608d3ceccba5062f7461d11d0cfe3a4d4b067782c537"
 
 [[files]]
 file = "config/xaeropatreon.txt"

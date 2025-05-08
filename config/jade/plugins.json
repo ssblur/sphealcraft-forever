@@ -52,9 +52,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "camerapture": {
-    "picture_frame": true
-  },
   "jade_access": {
     "held_item": true,
     "sign": true,

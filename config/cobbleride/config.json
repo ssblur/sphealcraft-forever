@@ -1,6 +1,6 @@
 {
   "general": {
-    "globalBaseSpeedModifier": 1.0,
+    "globalBaseSpeedModifier": 2.0,
     "globalLandSpeedModifier": 1.0,
     "globalWaterSpeedModifier": 1.0,
     "globalAirSpeedModifier": 1.0,
@@ -21,7 +21,7 @@
     "affectsSpeed": true,
     "minStatThreshold": 20,
     "maxStatThreshold": 400,
-    "minSpeedModifier": 0.5,
+    "minSpeedModifier": 0.75,
     "maxSpeedModifier": 4.0
   },
   "sprinting": {
@@ -30,9 +30,9 @@
     "canSprintOnLand": true,
     "canSprintInWater": true,
     "canSprintInAir": true,
-    "canExhaust": true,
+    "canExhaust": false,
     "maxStamina": 200,
-    "recoveryTime": 300,
+    "recoveryTime": 200,
     "recoveryDelay": 20,
     "exhaustionSpeed": 0.5,
     "exhaustionDuration": 1.0

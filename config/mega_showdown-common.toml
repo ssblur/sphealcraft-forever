@@ -26,10 +26,6 @@ zMoves = true
 # Allowed values: true, false - Default: true
 teralization = true
 
-# Disables pokemons from dropping tera shards
-# Allowed values: true, false - Default: false
-disableTeraShardDrop = false
-
 # Allows you to trade even if your pokemon is not in base form
 # Allowed values: true, false - Default: false
 tradeForm = false
@@ -60,8 +56,4 @@ dynamaxScaleFactor = 4
 # but can't since mega showdown keeps overriding the files
 # Allowed values: true, false - Default: true
 showdownFilesLoading = true
-
-# Allows you to have multiple primals
-# Allowed values: true, false - Default: true
-multiplePrimals = true
 

@@ -1,5 +1,3 @@
 [
-  {"version":2},
-  {"ingredient":{"id":"cobblemon:pp_up"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"recipe":"cobblemon:life_orb","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+  {"version":2}
 ]
