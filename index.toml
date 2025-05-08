@@ -1,6 +1,534 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/Veinminer/blocks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/Veinminer/groups.json"
+hash = "cee98f631d5bf35ee463afc1e703b2852bc70141928e076d380dd376834f2109"
+
+[[files]]
+file = "config/Veinminer/settings.json"
+hash = "74a35fe70a4359bd3a832d5516239d0377c51555297c4f4347ca13fd10de7a76"
+
+[[files]]
+file = "config/accessories.json5"
+hash = "b9f6a56acdb02a286de9aa06578dac5485656fb476adc819fb3c63dd49ad0785"
+
+[[files]]
+file = "config/appleskin.json5"
+hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
+
+[[files]]
+file = "config/balm-client.toml"
+hash = "e6ca77393d993b18e48a8d87115d52dad5eb0554ba3070f8919c257460fe377e"
+
+[[files]]
+file = "config/balm-common.toml"
+hash = "e6ca77393d993b18e48a8d87115d52dad5eb0554ba3070f8919c257460fe377e"
+
+[[files]]
+file = "config/biolith/general.json"
+hash = "f32b4edac918ac942931bafd83dc2afd802662459899fe022984393337cf9617"
+
+[[files]]
+file = "config/bobby.conf"
+hash = "7b8ca233ee25d95db7ea4601b786d656f3f7569ddf129836ce7f8dbbe5eb8926"
+
+[[files]]
+file = "config/bwncr.toml"
+hash = "4a3e5c2643b3e40f9a5edd3d540f788818dfdf382c19340393a47efefd52ecde"
+
+[[files]]
+file = "config/camerapture.client.json"
+hash = "26f21b1486d7be53e2c85a5a127e070f005d1e0977cd2c3f5d6a9551ef1934b3"
+
+[[files]]
+file = "config/camerapture.server.json"
+hash = "401c518648e56f8769e5516fd8736d6e18a793044bddd0d6a75d05edb45931ba"
+
+[[files]]
+file = "config/capture_xp.json"
+hash = "c04b65ed096d167a0576ddae67e815ac5ee332d6fa9714fccd4bc9f68963dab6"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
+
+[[files]]
+file = "config/carryon-client.json"
+hash = "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a"
+
+[[files]]
+file = "config/carryon-common.json"
+hash = "6344f0701aa72c9239871eb24f1361cd8072bdaca1ab5fd7894565b8d4255468"
+
+[[files]]
+file = "config/chat_heads.json5"
+hash = "744e6977b53f264ff47a1925451f7bd7083eb6bd7bff2505980cc3e9ca4ca0e2"
+
+[[files]]
+file = "config/cobblebadges/common.json"
+hash = "f57f368f7f0e61753973192bc8682168263bd04e9814f9873c27629e99e3d6fc"
+
+[[files]]
+file = "config/cobbled_counter.json"
+hash = "04d4d20f55e089eac58508d14efebc2fdc7c5173872162a7c6d6588c1c3dd21e"
+
+[[files]]
+file = "config/cobbled_counter_client.json"
+hash = "e245f605635b2fc995cb2d313cda87c4d444aee407c2537f630c5bd3b9864123"
+
+[[files]]
+file = "config/cobbledollars/bank.json"
+hash = "3ae8312dc740d0be6b043f11cbf2761e8b3fbfbc6e49ab36650157351e758c8d"
+
+[[files]]
+file = "config/cobbledollars/client.json"
+hash = "7f772dbb3202da636736ea98587e32da7b4755cde1ec86917d56070c296cea8c"
+
+[[files]]
+file = "config/cobbledollars/common.json"
+hash = "b38c98e1a8bd2ddc6e15311413dd57bbcba8ef2ea94eb8407db030353cacfaa9"
+
+[[files]]
+file = "config/cobbledollars/default_shop.json"
+hash = "b761cb056ea874b31e1acca0f5cf9a97d13242667d60f458e4cea837a0879830"
+
+[[files]]
+file = "config/cobblemon-wiki-gui/config.json"
+hash = "e4bb090387ffadf9c3cb5b6f43e9f77f2b9c42298d56497a90ea978fe1c45e6c"
+
+[[files]]
+file = "config/cobblemon/main.json"
+hash = "d08b5ae439dd0549e5d7dd8418b7f5724249a76d3d638e2c1967d8b249b1f0ba"
+
+[[files]]
+file = "config/cobblemon/unchained/hiddenBooster.json"
+hash = "5e926915ecf30c16f44ca501ae5aa05ea4baabda13a2ceb4cef727125e02f129"
+
+[[files]]
+file = "config/cobblemon/unchained/ivBooster.json"
+hash = "1ecd4c71948ee7df20a347ca495a96e6f415526eea890fcdbbe0536d4fcec0a0"
+
+[[files]]
+file = "config/cobblemon/unchained/shinyBooster.json"
+hash = "bb470b23ed654ef93f03b30f7e90f872adffec6e4f1ddacc2c9faf5012b0ed07"
+
+[[files]]
+file = "config/cobblemonalphas/config.json"
+hash = "ede14e98d6640140b4401b13ca03455b3a76152d18b8f49f5003075e6aa0f4c3"
+
+[[files]]
+file = "config/cobblemonboxlink.json"
+hash = "00b28ea272a0d95a6c779ac1f96093c080047b6eb97526c898cfc2c0b0d40bd8"
+
+[[files]]
+file = "config/cobblemonchallenge-config.properties"
+hash = "e70a09ad21d54e139be69c2a6b60e32bd6e93626f406caf5c9236799dbefafec"
+
+[[files]]
+file = "config/cobblemonintegrations-common-1.toml.bak"
+hash = "63d12a67f6b1541960c61517b8cc5367912369fa64c585c278cac6496d23ba7e"
+
+[[files]]
+file = "config/cobblemonintegrations-common.toml"
+hash = "9a15be59501806a6f716cc2e7888c7ba11255ad6a7ab77afd91339f63037969f"
+
+[[files]]
+file = "config/cobblemonsizevariation/config.json"
+hash = "fa78c6a8c6f660cc873fecaa56a8117d65b4c9036cb06ae5eeaf8ab236e638f0"
+
+[[files]]
+file = "config/cobblemonsizevariation/sizes/basic.json"
+hash = "0d2e72dff8d55ebe156d9beba4b9b8989fa0d09b0dd90eba13747bcb757e7257"
+
+[[files]]
+file = "config/cobblemonsizevariation/sizes/gen9.json"
+hash = "ac23f299e2dbf56a9b3c3791052c93d4d1c2a8bc0683a5025b8738275df3f060"
+
+[[files]]
+file = "config/cobblenav/client-config.json"
+hash = "085f58f6b4669eace390e4932185e20a49f1949d2888ffa3bb8ca52ff6fcef2a"
+
+[[files]]
+file = "config/cobblenav/server-config.json"
+hash = "dcac5f768bd71b8d7b81b578711851207fca8da436a1bb8d8658697b6e3fb9a2"
+
+[[files]]
+file = "config/cobbleride/config.json"
+hash = "68f3b3cecfd0a403be3b762355b981b4637edc73e05dbd9fba1b8bb73aab8817"
+
+[[files]]
+file = "config/cobbreeding/main.json"
+hash = "81e04cf1214139fd8dfc68704f5ac5629fb8f78a4bf1426d4f367c8b1b087931"
+
+[[files]]
+file = "config/collective.json5"
+hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
+
+[[files]]
+file = "config/comforts-common.toml"
+hash = "d1ff6e8f5aa2b77d6708b9d4a566d2de96e6f1ec594139742162b1dfdf92c476"
+
+[[files]]
+file = "config/comforts-server.toml"
+hash = "00097d03bb5a4016c869695ecce545a38391c7089d8bd9f80cd6feccbae9738e"
+
+[[files]]
+file = "config/easyanvils-client.toml"
+hash = "60e86e56dd00882a281e8ee88800b75abd4119361edd91fc9948e7da13e2e473"
+
+[[files]]
+file = "config/easyanvils-common.toml"
+hash = "643de42a3b9cd02a9c0d82d2b2119daa3373d51b7394baeba6b98332de6ecb8d"
+
+[[files]]
+file = "config/easyanvils-server.toml"
+hash = "12d9deb53f28206e575fb2e104b0e7f08a55917a5e1b7304062ecfda3b6996ac"
+
+[[files]]
+file = "config/easymagic-client.toml"
+hash = "49f7edeec998f185b53466f7184dc129d757abf90fdcdc3973a86c4c4deb584a"
+
+[[files]]
+file = "config/easymagic-common.toml"
+hash = "1831109fee7afc163f381d19d57f45db6ad9a8574da583437f5a1e91beb85478"
+
+[[files]]
+file = "config/easymagic-server.toml"
+hash = "66aa5141ba7dc6809d5cfc96d86ab91d54d8dffede419bbebe20fa41efcb6ecd"
+
+[[files]]
+file = "config/expandedstorage.json"
+hash = "a5be83f03a5189781ad52a81a9ff5ad02d86fb170601dc3f92c733692af09860"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "2e8f422ac50f319576cbe41dfc11fe7e23417f3f78a16e838d8520a0dafb0ac3"
+
+[[files]]
+file = "config/fallingtrees_client.json"
+hash = "999a84563549e098978ef10d8cc7e3fc5f71145d44095097625154b4de8e73c8"
+
+[[files]]
+file = "config/fallingtrees_common.json"
+hash = "7e55389203c18572491a025db2392fc67ebb4e167a1c617679445210aa88757a"
+
+[[files]]
+file = "config/forgeconfigapiport.toml"
+hash = "647ad92f7bdc5e0ccef37d6e7386b08f2a19715b77742202f2f9048fb14e0dec"
+
+[[files]]
+file = "config/gts/config.json"
+hash = "db64baa79893b913fe855180b6acecff2aa15c25c92bb362318cea63d7481b04"
+
+[[files]]
+file = "config/gts/lang.json"
+hash = "73d5c376d4ac865e77beef6e9a7594599d09f8956d36e6a1d4a6eb8cdc07eaa9"
+
+[[files]]
+file = "config/image2map.json"
+hash = "017fcc31d5228472e9c4e42054f28df39c2bc11010ec6ae035d7af1d1b7e1eb3"
+
+[[files]]
+file = "config/impactor/economy.conf"
+hash = "5b86aa8e6aa50663c2fba524b12e79f010adbbe8420e4f8a2f746f6469aa811b"
+
+[[files]]
+file = "config/impactor/mail.conf"
+hash = "aa7d2a7775b4ae390dd96a9f8fec5a57770c6d7e8565f4d6ef988db6317b0ff8"
+
+[[files]]
+file = "config/impactor/translations/translations.conf"
+hash = "70013504eaad846b950b832c495387fed3e6d0033f4b0941df5629fec4f02bf0"
+
+[[files]]
+file = "config/inventorysorter/blacklist.json5"
+hash = "9f36f88fdb87b6320507f049e9eff15a6622655666bac5122c1c9f694dd2e3d7"
+
+[[files]]
+file = "config/inventorysorter/config.json5"
+hash = "3f6a69f6b0c8bf3b6c9e19964666ebd0e45bc5964c072d3ff1841e8a7ea0973a"
+
+[[files]]
+file = "config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/iris.properties"
+hash = "1ef2f30933a9aaafa2aebf9acac9860c28669676378e310c4fa2f3beadcb8578"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "f9f68a1557cdfab8394d2f4b54a2756d96451dcdddea4f5e04cb912b516ffa05"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "1a021d943722ce34ae789d27ad5e5c52e0947dad449600fc136d1cfd7f5ed2de"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "da37e25ddcb3d84644549975cf6f4ff60ff34e0814917ed97af9672160f00c99"
+
+[[files]]
+file = "config/jade/usernamecache.json"
+hash = "c596cbd0444496aefcad12faba43bfab3b6266674975860a3de16b50307c5bed"
+
+[[files]]
+file = "config/jei/blacklist.json"
+hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "55825f7bfe42021359685b0cb698dbd2bcea0287b18739a37ae9165016b0bd09"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "f6faa8cf111795b26bb59fe7618381fba1879ddc35dbac176297f57941496ff6"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "37cf1f682d623a42e9d56b9348a94b12811ffdb18fe6de17d2253b80855ab278"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "e4bc0c5fce5a7536bce14c94b30e30482e65d63792b29db0ad59d4fa9eb4d1a5"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "16bada81bf6ab44c1aa2b60e995833d4c3d6044faf1da7d56fee3c866d0f41ca"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "fcb34cd2cce73795b4d0a6c10d6e2b528c6d64aef7782744149e30558c2a17f9"
+
+[[files]]
+file = "config/jei/world/server/Minecraft_Server_146f2bc/bookmarks.json"
+hash = "055914301390e4eb287724a76a72878b7559abc0683fda4be04be880aac99fd2"
+
+[[files]]
+file = "config/justzoom/config.txt"
+hash = "d0dcbc7c9c28a398ad2b81c1f6779f34beffbf45560c8c02c063077ab32ded45"
+
+[[files]]
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
+file = "config/mega_showdown-common.toml"
+hash = "8eb1ac50b2b0889174a775630e1d96d0830e5f4d34c2dc4c1f7a8455b28d299d"
+
+[[files]]
+file = "config/modelfix-client.json"
+hash = "b55936928438ab49ebc8086579cd2218faf14d777fd15ec6eee895dbcadb667d"
+
+[[files]]
+file = "config/naturescompass.json"
+hash = "a6a872fbce46949e96a433d5a088084d77c30e388b6da1542ffd8b773e682b4c"
+
+[[files]]
+file = "config/nemos-inventory-sorting/config.json"
+hash = "1108e26f8f0e78bd0256fac5fb04380722b63fa14e5745ca0ac10e253886ae15"
+
+[[files]]
+file = "config/quickleafdecay.json"
+hash = "bb21acac94db2fb6ab2dc08635c499ca57e1bfa8fe7ea4ae0845539d20a2f174"
+
+[[files]]
+file = "config/rctmod-client.toml"
+hash = "18bfb2135e582bde1aae1e0ba128bfbc78148bfd13a77172a7bd042f2609b092"
+
+[[files]]
+file = "config/rctmod-server-1.toml.bak"
+hash = "e260644cceed6bfc6d78f5302abc122946fcf089c843afe663d31d8f30c29562"
+
+[[files]]
+file = "config/rctmod-server.toml"
+hash = "a732e20a381998c0df53a391f7fb45803513b529bbeb2519fbbb6cc3e8d72205"
+
+[[files]]
+file = "config/releaserewards.json"
+hash = "cb978f89bd44e1aaad1cdb52754fcc7c7ef8926961f9422bab9feedc2574b757"
+
+[[files]]
+file = "config/simplehats.json"
+hash = "ef023c7f0d6c273b463f595c62145afab8f3b65b43b0b3304e3da5e9355cb5dc"
+
+[[files]]
+file = "config/simplehats.json5"
+hash = "7a40d316646f95ce8f14a53584eb0bfa603833d45fd63695d15e2c4d3045ecd1"
+
+[[files]]
+file = "config/simpletms/main.json"
+hash = "2674c3a99db072e2119929df5f603cf2eeee905986365bff9fa580dd66e1ffde"
+
+[[files]]
+file = "config/simpletms/moves/default_tm_moves.json"
+hash = "67ef3d542df3529bca27b74d202960322a78125b158ef40b011173cdad19ba64"
+
+[[files]]
+file = "config/simpletms/moves/default_tr_moves.json"
+hash = "67ef3d542df3529bca27b74d202960322a78125b158ef40b011173cdad19ba64"
+
+[[files]]
+file = "config/simpletms/moves/excluded_moves_from_blank_learning.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/simpletms/moves/excluded_moves_from_pokemon_drops.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/simpletms/moves/excluded_moves_from_tmtr_learning.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/skinlayers.json"
+hash = "6938dedbced0a6bb0ef345264f8df432b6db8b759f6614b32bae655ca72e131d"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "fbbce1baa1b9b1da65a8f89023e7d075b2345da1406985a0d33de73631f88055"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
+
+[[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "ce60ba4ebdbb1ba959f3ee6be206f84f2221b8dc436140c92cda412ef33f10e6"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server-1.toml.bak"
+hash = "ceb4fc2df21dcf09c5b9ca6ced87508eb7f4a83dd839f0e4f9ce9ba28842904e"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "a63b12d508869e99425148a73319dc7725ecfe8ce73bf66d057501bb87bd720b"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "20a722a82474b3491b31807e18d93f253c58e472c7c65c1913f921b78ee91063"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "1648f2f46d4742bf03fe3959a295baed36f7aa616fb64573077c0745c35e49fa"
+
+[[files]]
+file = "config/spawn_notification.json"
+hash = "3dec817525a407ef70c1409ecf5e069f03b14e7ed8fe4886504d33776a5d7af0"
+
+[[files]]
+file = "config/tbcs-server.toml"
+hash = "89dd7c03aa96e04005e02d17a75c60d1659f050354f20e8d462c50f8661f254a"
+
+[[files]]
+file = "config/trashslot-common.toml"
+hash = "3349153e9cb33227c5fd3b597fcea5ccbd480a6e5396b19004cbea07365ec433"
+
+[[files]]
+file = "config/unimplemented_items.json"
+hash = "b512fb62850832d3526399839905134da23c4d2fd9aa1a15e58260c9b5809c29"
+
+[[files]]
+file = "config/veinminer/update/veinminer-client-2.4.2.jar"
+hash = "b3925c96150f7662f687dbf3ce9ffb26f89fe9059a5b1e9e2a87ee34a5b496ef"
+
+[[files]]
+file = "config/veinminer/update/veinminer-fabric-2.4.2.jar"
+hash = "80dafbd691cf025ba92d05317c45b46a5d6d4d1a3baa97ac1eb7b2cb56d19342"
+
+[[files]]
+file = "config/visualworkbench-client.toml"
+hash = "1890069f63baa9eca78bf5013ea591d70f8a29eb8d95437b4094b6de4b14abd1"
+
+[[files]]
+file = "config/visualworkbench-common.toml"
+hash = "db3a2a559ddbdb5a40c2e7e1b3afd88dd5def2fd35c0af17a1ba4bb967d9be88"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "68cc50e5efe5ca0ca1f51502e2b37da83ba9d326391d88c0b9cc1b9cfffe6032"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "5145c460c1a32442588f61b6d1fc4f9b1f9b03a73883bbfbf588c276859705b4"
+
+[[files]]
+file = "config/voicechat/voicechat-volumes.properties"
+hash = "33afebdb8ef07a3d774086931dec8d899f4da7aeba5b448fd4eee540ba5e02a2"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "8af8e3ed328e8593f76aef5396a431747b256726c389c97c8ea6a08719af3f48"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "4ed3f32c5d52577122ab622f358084cb107fb081ba5d1c488a3010122b473565"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "76239797bf685ce3eca8189781511516c2b9676465aabb34e708cdfbe5a404a1"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7a753ad3aa3b7d586383884fb59cf8cf8c7a5ebbcf17f29478cd48c580cae542"
 metafile = true
@@ -509,3 +1037,39 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "1807fbe474298e2ef5bab6cf77187f01017c61166fc57c335b26d9217d8b2172"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "ca6bb3c0ca5334237ccb40b421651c764cc2d8cad1b5eb34a9ccdaf9d1f848f2"
+
+[[files]]
+file = "resourcepacks/Cobblemon Classic Grass Pack v2.1 MC1.21.1.zip"
+hash = "4386b800db3f7710c23f5ead9c911c9f265831a02e74c704f7cc29fcd9070880"
+
+[[files]]
+file = "resourcepacks/Cobblemon Interface Modded v1.9.0.zip"
+hash = "7d0327811e78d5519f554557632927335b157da1c14f3c76ec91cb6719d69041"
+
+[[files]]
+file = "resourcepacks/Cobblemon Interface v1.4.1.zip"
+hash = "7688d2cdd0691a823b7970bf6056feb71ee61a4a08628403c3e52eea473385fe"
+
+[[files]]
+file = "resourcepacks/Cobblemon Legends Arceus.zip"
+hash = "d25191fa96c2de9639c1113238daa7af8bf27b7f5767fea864cfc1dcc64f3103"
+
+[[files]]
+file = "resourcepacks/E19 Cobblemon Minimap Icons.zip"
+hash = "c5957408deae03b72465ad8c42b43a3d27cbf8b4c367d0dfb617b77de363b880"
+
+[[files]]
+file = "resourcepacks/emissive-cobblemon-ores.zip"
+hash = "f64c448753a0be1ba4800a0bf548ca021648f90b57dde1c6aff50adbfda68d68"
+
+[[files]]
+file = "setup.sh"
+hash = "4aeb6cb05775b0785e9e61107d84bf925395668c957825b425d04377f9347b01"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.4.zip"
+hash = "13af6c439ef8651916b18d2d658f134b07ce3c2e835d23d37d5d24c5d43284de"
