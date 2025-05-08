@@ -237,18 +237,6 @@ file = "config/image2map.json"
 hash = "017fcc31d5228472e9c4e42054f28df39c2bc11010ec6ae035d7af1d1b7e1eb3"
 
 [[files]]
-file = "config/impactor/economy.conf"
-hash = "5b86aa8e6aa50663c2fba524b12e79f010adbbe8420e4f8a2f746f6469aa811b"
-
-[[files]]
-file = "config/impactor/mail.conf"
-hash = "aa7d2a7775b4ae390dd96a9f8fec5a57770c6d7e8565f4d6ef988db6317b0ff8"
-
-[[files]]
-file = "config/impactor/translations/translations.conf"
-hash = "70013504eaad846b950b832c495387fed3e6d0033f4b0941df5629fec4f02bf0"
-
-[[files]]
 file = "config/inventorysorter/blacklist.json5"
 hash = "9f36f88fdb87b6320507f049e9eff15a6622655666bac5122c1c9f694dd2e3d7"
 
