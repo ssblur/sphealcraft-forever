@@ -1,0 +1,13 @@
+name = "【Cobblemon】BadgeBox"
+filename = "badgebox-fabric-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8J7TR166/versions/856mFgrx/badgebox-fabric-1.2.5.jar"
+hash-format = "sha512"
+hash = "4fbcbe159627eb8e29fd55894a6eebd769ea2d83c5bd64aea55cf1d4cd7da4721ff66c682b589a5dedfa8fe04de739d9a848983100f24092b66ffa499202dc47"
+
+[update]
+[update.modrinth]
+mod-id = "8J7TR166"
+version = "856mFgrx"

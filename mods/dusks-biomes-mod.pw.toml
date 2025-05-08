@@ -1,0 +1,13 @@
+name = "Dusks Biomes"
+filename = "dusks_biomes-1.2.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/98sJC4ux/versions/KfR4Ar0D/dusks_biomes-1.2.1.jar"
+hash-format = "sha512"
+hash = "449645e8437eafb56d1fdfbb8c2b16fd62727d7f381b5c03a8eae3ff403282e0445c040008433aeb8bdc587fcf0ecabba2f52fbd74f7d4a4e0f336e1cd734f3c"
+
+[update]
+[update.modrinth]
+mod-id = "98sJC4ux"
+version = "KfR4Ar0D"

@@ -1,0 +1,13 @@
+name = "Fae's Cobblemizer"
+filename = "Fae's Cobblemizer-2.1.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2f7ufuoZ/versions/xUFR76lx/Fae%27s%20Cobblemizer-2.1.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "eda7212007e9295c20164625b4ebd04b040b1c930da3a58fc8ecc44c2a77c203322671c3196f79333e9d64ba325c3c1668ae41272da737df95de0ad8459d131e"
+
+[update]
+[update.modrinth]
+mod-id = "2f7ufuoZ"
+version = "xUFR76lx"
