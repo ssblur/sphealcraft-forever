@@ -194,7 +194,10 @@
       "graveyard:*",
       "immersivepetroleum:*",
       "tardis:interior_door",
-      "cuffed:*"
+      "cuffed:*",
+      "spudaciousshops:*",
+      "waystones:*",
+      "camerapture:*"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [
@@ -222,7 +225,9 @@
       "securitycraft:*",
       "taterzens:npc",
       "easy_npc:*",
-      "bodiesbodies:dead_body"
+      "bodiesbodies:dead_body",
+      "cobblemon:*",
+      "rctmod:*"
     ],
     "//forbiddenStacking": "Entities that cannot have other entities stacked on top of them",
     "forbiddenStacking": [

@@ -66,7 +66,7 @@ hash = "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "6344f0701aa72c9239871eb24f1361cd8072bdaca1ab5fd7894565b8d4255468"
+hash = "096023d6a5ce4a262ef4e997301c0f5a2e4776fede57afbda698265f8dde3248"
 
 [[files]]
 file = "config/chat_heads.json5"
