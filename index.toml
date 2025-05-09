@@ -1059,9 +1059,5 @@ file = "resourcepacks/emissive-cobblemon-ores.zip"
 hash = "f64c448753a0be1ba4800a0bf548ca021648f90b57dde1c6aff50adbfda68d68"
 
 [[files]]
-file = "setup.sh"
-hash = "4aeb6cb05775b0785e9e61107d84bf925395668c957825b425d04377f9347b01"
-
-[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.4.zip"
 hash = "13af6c439ef8651916b18d2d658f134b07ce3c2e835d23d37d5d24c5d43284de"
