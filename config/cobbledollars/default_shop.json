@@ -227,6 +227,142 @@
           "price": 250000
         }
       ]
+    },
+    {
+      "Customization": [
+        {
+          "item": "cobblemizer:azure_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:beast_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:cherish_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:citrine_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:dive_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:dream_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:dusk_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:fast_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:friend_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:great_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:heal_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:heavy_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:level_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:love_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:lure_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:luxury_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:master_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:moon_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:nest_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:net_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:park_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:poke_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:premier_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:repeat_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:roseate_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:safari_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:slate_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:sport_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:ultra_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:verdant_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:friend_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:repeat_ball_cb_changer",
+          "price": 10000
+        },
+        {
+          "item": "cobblemizer:luxury_ball_cb_changer",
+          "price": 10000
+        }
+      ]
     }
   ]
 }
