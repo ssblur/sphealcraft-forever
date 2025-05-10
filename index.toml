@@ -98,7 +98,7 @@ hash = "b38c98e1a8bd2ddc6e15311413dd57bbcba8ef2ea94eb8407db030353cacfaa9"
 
 [[files]]
 file = "config/cobbledollars/default_shop.json"
-hash = "b761cb056ea874b31e1acca0f5cf9a97d13242667d60f458e4cea837a0879830"
+hash = "2091460cb24c5967e874b8ef22c25a5f6cb8d0957cf9f243d39e5a20d094877f"
 
 [[files]]
 file = "config/cobblemon-wiki-gui/config.json"
@@ -366,7 +366,7 @@ hash = "e260644cceed6bfc6d78f5302abc122946fcf089c843afe663d31d8f30c29562"
 
 [[files]]
 file = "config/rctmod-server.toml"
-hash = "3b05dd000e86cfe581eca6fae613f4b8d3169d3c8655d69421b8a6579cc88192"
+hash = "bf6b85a7e4c289a2fc0c97ce493d6a095b36031e721e29d83ef1462eefd36dcd"
 
 [[files]]
 file = "config/releaserewards.json"
