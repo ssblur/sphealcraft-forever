@@ -11,11 +11,11 @@
 	#spot is left, the chance for the last trainer will be as configured by globalSpawnChanceMinimum.
 	#Set to any value equal to or above globalSpawnChance to disable (e.g. 1.0).
 	#Range: 0.0 ~ 1.0
-	globalSpawnChanceMinimum = 0.15
+	globalSpawnChanceMinimum = 0.4
 	#━━━━━━━━━━
 	#The interval in ticks at which a spawn attempt is made per player.
 	#Range: 1 ~ 2147483646
-	spawnIntervalTicks = 120
+	spawnIntervalTicks = 30
 	#━━━━━━━━━━
 	#The spawn interval ticks will grow towards this value based of how many trainers are already
 	#spawned in for a player. For example if a player has 0 trainers spawned for them the spawn
@@ -24,7 +24,7 @@
 	#last trainer will be as configured by spawnIntervalTicksMaximum. Set to any value equal to or below
 	#spawnIntervalTicks to disable (e.g. 0).
 	#Range: 0 ~ 2147483646
-	spawnIntervalTicksMaximum = 1200
+	spawnIntervalTicksMaximum = 600
 	#━━━━━━━━━━
 	#The max horizontal distance a trainer can spawn from players.
 	#Range: 1 ~ 2147483646
@@ -40,12 +40,12 @@
 	#━━━━━━━━━━
 	#Spawn cap of trainers per player.
 	#Range: 0 ~ 2147483646
-	maxTrainersPerPlayer = 12
+	maxTrainersPerPlayer = 24
 	#━━━━━━━━━━
 	#Total trainer spawn cap. This value may be increased for servers with higher expected
 	#player numbers (> 4), for example (|players| + 1)*maxTrainersPerPlayer.
 	#Range: 0 ~ 2147483646
-	maxTrainersTotal = 120
+	maxTrainersTotal = 240
 	#━━━━━━━━━━
 	#The maximum level difference between the strongest pokemon in the team of a player and the strongest
 	#pokemon in the team of a trainer to spawn for that player. The spawn weight decreases with a higher
