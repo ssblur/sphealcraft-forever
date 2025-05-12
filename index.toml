@@ -911,6 +911,11 @@ hash = "51ce0779dbb5a994fd39e3cf0c5f79bc4742faef339980b4463929e3d46aca0e"
 metafile = true
 
 [[files]]
+file = "mods/pokeblocks.pw.toml"
+hash = "2776d6c14fbfbc55183ad6953596ae8e3cf35816813bf8d9cde663044d5c6121"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "c1cf218d3c9dbf16ec9b93ae536831fd17805def799eab72b9f79a9896f5999f"
 metafile = true
