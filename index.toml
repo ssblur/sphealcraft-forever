@@ -1016,6 +1016,11 @@ hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
 
 [[files]]
+file = "mods/universal-bone-meal.pw.toml"
+hash = "dd97ed76130660180201530600cb7144f6497a3af62f06759ec0ddb49c5de3e3"
+metafile = true
+
+[[files]]
 file = "mods/vegan-hostile-mob-drops.pw.toml"
 hash = "634ad65eb7bfd7f6f01dd65c1c09d6733be4709962703478f6b6cc8d87e6227f"
 metafile = true
