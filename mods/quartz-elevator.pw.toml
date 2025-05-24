@@ -1,0 +1,13 @@
+name = "Quartz Elevator"
+filename = "quartz-elevator-2.3.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O9C0qdu8/versions/FEfS2vKD/quartz-elevator-2.3.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "66c144e3ef3ae3683f8147b294d613ebac4107cff8252120446ff16c3634dcafbdbea7d2b8496895b156d31d5baf20598c75bc4051cbbc78fa06c39525993fb2"
+
+[update]
+[update.modrinth]
+mod-id = "O9C0qdu8"
+version = "FEfS2vKD"

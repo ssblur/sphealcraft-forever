@@ -741,6 +741,11 @@ hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
 metafile = true
 
 [[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "8d99464e2f16a58e9d6426fbd818d8a28ca5472621902a93e19ea89deddd67ce"
+metafile = true
+
+[[files]]
 file = "mods/dusks-biomes-mod.pw.toml"
 hash = "193d61e1110ed3a8698b5acc60411e2ba9c03f43e1cd184e57475e8ac7251b69"
 metafile = true
@@ -936,6 +941,11 @@ hash = "c1cf218d3c9dbf16ec9b93ae536831fd17805def799eab72b9f79a9896f5999f"
 metafile = true
 
 [[files]]
+file = "mods/quartz-elevator.pw.toml"
+hash = "88b6fe8b727ea30f52835f4cd3a804a3f69b4f8005d8fa7747cbcbe355724fe6"
+metafile = true
+
+[[files]]
 file = "mods/quickleafdecay.pw.toml"
 hash = "1e3869401587b81e4c561eb2b50e4d09a707ddfc23a41e3852655975d3a9717c"
 metafile = true
@@ -1088,6 +1098,11 @@ hash = "d25191fa96c2de9639c1113238daa7af8bf27b7f5767fea864cfc1dcc64f3103"
 [[files]]
 file = "resourcepacks/E19 Cobblemon Minimap Icons.zip"
 hash = "c5957408deae03b72465ad8c42b43a3d27cbf8b4c367d0dfb617b77de363b880"
+
+[[files]]
+file = "resourcepacks/cobblemotion.pw.toml"
+hash = "49e31f2f98209f6f47ec93180e98479e14dd01cdbb8fbdf58f984d0e66303c84"
+metafile = true
 
 [[files]]
 file = "resourcepacks/emissive-cobblemon-ores.zip"
