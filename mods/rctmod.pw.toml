@@ -1,13 +1,13 @@
 name = "Radical Cobblemon Trainers"
-filename = "rctmod-fabric-1.21.1-0.15.1-beta.jar"
+filename = "rctmod-fabric-1.21.1-0.16.0-beta.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lRwTUnD7/versions/NtCCGmg3/rctmod-fabric-1.21.1-0.15.1-beta.jar"
+url = "https://cdn.modrinth.com/data/lRwTUnD7/versions/gcuFb5cB/rctmod-fabric-1.21.1-0.16.0-beta.jar"
 hash-format = "sha512"
-hash = "0d3e1ec58b9387e4537531970629705989f208490ca42b014ea9f5667a26fe995d3c23e38c353d6b140db3ecdb2e327ed899eaab35e8a7802ec1a57ae21f3f60"
+hash = "5809d6e6b34b406913abe1cb6b01452f007105298035b803313042330a08e2c4c85049728f614583d8f40e56b2defed25d4a92e0f276579d77d57d2e99fa7a49"
 
 [update]
 [update.modrinth]
 mod-id = "lRwTUnD7"
-version = "NtCCGmg3"
+version = "gcuFb5cB"
