@@ -1,13 +1,13 @@
 name = "Impactor"
-filename = "Impactor-Fabric-5.3.1+1.21.1.jar"
+filename = "Impactor-Fabric-5.3.3+1.21.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/LdBYVaPS/versions/1YGXPmHU/Impactor-Fabric-5.3.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/LdBYVaPS/versions/BlAlkvYZ/Impactor-Fabric-5.3.3%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "e1980696f202ab818be49744d85b9be1768124371b7fd4dd21c3c84941fc65888ca2732cebd66b7e7e04f9263d1ccd1570756e47d49f5208a50306e2b85ea1da"
+hash = "a89ec40de40c04ef796650ab5a372e2989b43f27a997ae6a5b8f1d56ea2ad220b9da18f09738fffc6bbad202943706f9893560b4611ae3f6b7878c11cecf8e52"
 
 [update]
 [update.modrinth]
 mod-id = "LdBYVaPS"
-version = "1YGXPmHU"
+version = "BlAlkvYZ"
