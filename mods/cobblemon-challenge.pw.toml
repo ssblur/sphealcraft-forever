@@ -1,0 +1,13 @@
+name = "Cobblemon Challenge"
+filename = "cobblemonchallenge-fabric-2.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XpJB1Qk6/versions/3AQmaig2/cobblemonchallenge-fabric-2.4.0.jar"
+hash-format = "sha512"
+hash = "e0f1a017a7f85c22836f68649a8e8fde9d485887231da256c68a6f64c172cbabc4dba1d12a7338f3dc95352bb91b9604202d48b7b505d43bb62afaeb5a925a50"
+
+[update]
+[update.modrinth]
+mod-id = "XpJB1Qk6"
+version = "3AQmaig2"

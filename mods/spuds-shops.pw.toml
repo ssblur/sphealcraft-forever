@@ -1,13 +1,13 @@
 name = "Spud's shops"
-filename = "spuds-shops-1.21.1-1.1.2.jar"
+filename = "spuds-shops-1.21.1-1.9.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sHFbDnFN/versions/Czfw8psQ/spuds-shops-1.21.1-1.1.2.jar"
+url = "https://cdn.modrinth.com/data/sHFbDnFN/versions/E9OkDfuk/spuds-shops-1.21.1-1.9.0.jar"
 hash-format = "sha512"
-hash = "401cc3014cb5fe0b22e938641ec5bb37816e5eb36aca755ffe8614fa593cedf5e8365fbf199c9e19d0d786c1b5050e62644253eca5d815fc58e41748ad46f083"
+hash = "cddaac845a66e8b9b22891837f2e153c234b74e03626e93ee879e96ed9f883fa608507f471d87b522896a9b5fc48ba9be4665054670ef183e9a354c891fcd31e"
 
 [update]
 [update.modrinth]
 mod-id = "sHFbDnFN"
-version = "Czfw8psQ"
+version = "E9OkDfuk"

@@ -1,13 +1,13 @@
 name = "Vegan Hostile Mob Drops"
-filename = "vegan-hostile-mob-drops-2.5.jar"
+filename = "vegan-hostile-mob-drops-2.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DdBU59wi/versions/KAygrvEx/vegan-hostile-mob-drops-2.5.jar"
+url = "https://cdn.modrinth.com/data/DdBU59wi/versions/aZi9TBlV/vegan-hostile-mob-drops-2.8.jar"
 hash-format = "sha512"
-hash = "614c209b0111987341a1ad09c261741a29f5d2454389dffb84b926491290f473a2c62fd1e20e286639cdffee090669f529cd01d40eba46a023abd86fc1358a05"
+hash = "b9dfc2720651e49eb6d91d1653f5cfe3abd1282e1a6259c691bb94859cf2b392a437c89df5e8c3c5cb6aca4ba270f5ceadfee3971c38d56046eeda3ec868971f"
 
 [update]
 [update.modrinth]
 mod-id = "DdBU59wi"
-version = "KAygrvEx"
+version = "aZi9TBlV"

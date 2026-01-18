@@ -1,13 +1,13 @@
 name = "Cobblemon Counter"
-filename = "cobblemon-counter-1.6-fabric-1.4.0.jar"
+filename = "counter-fabric-1.7.1-1.9.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rj8uLYP4/versions/WqzwlcxU/cobblemon-counter-1.6-fabric-1.4.0.jar"
+url = "https://cdn.modrinth.com/data/rj8uLYP4/versions/psqnqmHh/counter-fabric-1.7.1-1.9.0.jar"
 hash-format = "sha512"
-hash = "dcccd10fed4d0cba366e670b694b59b74f9f199113bf990fd41815f439840d9698a0a2b9d93f8659153e2645fe74897194ab577d11a4efe72a0fc18e0f334911"
+hash = "9e44e50e784827f3a31f3c73d731341470b523d027f000c8796888c167e6112ad972e8127ae26fc3a94de3f2b2a3f88bbd14fc502eee97ae1ca7365a711cab24"
 
 [update]
 [update.modrinth]
 mod-id = "rj8uLYP4"
-version = "WqzwlcxU"
+version = "psqnqmHh"

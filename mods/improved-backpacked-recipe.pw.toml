@@ -1,0 +1,13 @@
+name = "Improved Backpacked Recipe"
+filename = "improved-backpacked-recipe-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fd8wRox8/versions/OxEin3lO/improved-backpacked-recipe-1.0.0.jar"
+hash-format = "sha512"
+hash = "2ea7c129904ab0ed813ea3ac1d60907b3d2afda0592c74b881ddfe3ff6323c37db1f4af521f374b4e8604807c9a8b6bd117e4494a11159dba6b15632b9e22e5e"
+
+[update]
+[update.modrinth]
+mod-id = "Fd8wRox8"
+version = "OxEin3lO"

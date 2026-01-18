@@ -1,13 +1,13 @@
-name = "Panda's Falling Tree's"
-filename = "fallingtrees-fabric-mc1.21-0.13.2-SNAPSHOT.jar"
+name = "Panda's Falling Trees"
+filename = "fallingtrees-fabric-1.21.1-0.14.0-APLHA.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/i2kUe4lq/versions/5EjYD8FR/fallingtrees-fabric-mc1.21-0.13.2-SNAPSHOT.jar"
+url = "https://cdn.modrinth.com/data/i2kUe4lq/versions/sUXR7coS/fallingtrees-fabric-1.21.1-0.14.0-APLHA.2.1.jar"
 hash-format = "sha512"
-hash = "3f157a028e76e54c73159452a35528a54df3994abcadaf9d9d378495586de0e7aad828644015a4f6b99bff3e5a91fe39ca95e34f285bf0f19c1e23d8146367df"
+hash = "daf64f12243b06ced83747756d880915554bde63fa5627d72ec3b434932966f2647bf444186c94b6237cae40fc056ec73b343935b4899cc3bc8ee15f22a4c0f8"
 
 [update]
 [update.modrinth]
 mod-id = "i2kUe4lq"
-version = "5EjYD8FR"
+version = "sUXR7coS"
