@@ -631,6 +631,11 @@ hash = "5c349b53d09481e34164ce648e26a7455c5c1ba0558c7325ee095f45057d6b5a"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-challenge.pw.toml"
+hash = "94134e611812d608142c20647b5e3d0ffade2afc7a0b75b72990899063266676"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-counter.pw.toml"
 hash = "83c4faf795642c4f58b270a1c748a42b92838501dd8e63fb8a18aa7bb133c904"
 metafile = true
@@ -691,6 +696,11 @@ hash = "51b737c406e846631ef7df1ac5ca336041e9623452df0926143a04b8a3ceaa56"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-tim-core.pw.toml"
+hash = "8b05eb598e9f186439f6d19d2b0ab68ba7177ce2565fd6b7f59e75576f86a69d"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-unchained.pw.toml"
 hash = "82a9efa9ac89d8cc0c3418b661c8225b5b83c72f4c60a77a26e0104ecfcb594e"
 metafile = true
@@ -747,6 +757,11 @@ metafile = true
 
 [[files]]
 file = "mods/dusks-biomes-mod.pw.toml"
+hash = "79b36e2d714dff3f8991ad89d7d17f1fea7f84f739c3d77d0f633ec981bd41ef"
+metafile = true
+
+[[files]]
+file = "mods/dusks-biomes.pw.toml"
 hash = "79b36e2d714dff3f8991ad89d7d17f1fea7f84f739c3d77d0f633ec981bd41ef"
 metafile = true
 
@@ -811,8 +826,13 @@ hash = "c596ea90d30e90902ae992b2deea73bf87e0d3707e77fa15f8182fab335effe4"
 metafile = true
 
 [[files]]
+file = "mods/improved-backpacked-recipe.pw.toml"
+hash = "0432d29c0df5cdf2fe79425ead626cee8dbfce258009d607ae8adc352770da47"
+metafile = true
+
+[[files]]
 file = "mods/inventory-sorting.pw.toml"
-hash = "0647ec947d62e937dda3aef48b7f535164f354fb7bd37d8f0aeb02828d552c91"
+hash = "7cae98a677565da83a0f0dd38a3e6d573cc4388912c20d8ff43c48ec6fa59bc5"
 metafile = true
 
 [[files]]
@@ -927,7 +947,7 @@ metafile = true
 
 [[files]]
 file = "mods/pandas-falling-trees.pw.toml"
-hash = "96d4d9a0b36f0f9c024c9abfb718579cb835f2e1c7b2e8113c77c269972bdd9d"
+hash = "f5d434a0ddf59f5217ad141d3bdd8a61fecfdbf1f484d4ff3f6c84610b197a92"
 metafile = true
 
 [[files]]
@@ -947,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/quickleafdecay.pw.toml"
-hash = "1e3869401587b81e4c561eb2b50e4d09a707ddfc23a41e3852655975d3a9717c"
+hash = "b17716216fb79c7c2bf9f34ae4c63d6023f5601902b9e2e0f04912e5351f5179"
 metafile = true
 
 [[files]]
@@ -1101,7 +1121,7 @@ hash = "c5957408deae03b72465ad8c42b43a3d27cbf8b4c367d0dfb617b77de363b880"
 
 [[files]]
 file = "resourcepacks/cobblemotion.pw.toml"
-hash = "89b926743e7e3ac42abe6108606c6150689d595da6255d6bad5c4301c25ca931"
+hash = "005564395187b9696e201cc55ac7c790efecc8e8a0f8cd8aadcb4266718c94a9"
 metafile = true
 
 [[files]]
@@ -1111,3 +1131,7 @@ hash = "f64c448753a0be1ba4800a0bf548ca021648f90b57dde1c6aff50adbfda68d68"
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.4.zip"
 hash = "13af6c439ef8651916b18d2d658f134b07ce3c2e835d23d37d5d24c5d43284de"
+
+[[files]]
+file = "update.sh"
+hash = "9fcea56386e7b32343ac6916948c0546e5deb72500d85a1c14930abcf7e67302"
