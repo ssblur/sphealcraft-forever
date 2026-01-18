@@ -1,6 +1,6 @@
 name = "Cobblemon Wiki Gui"
 filename = "CobblemonWikiGui-fabric-2.2.1+1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1KP4CLlU/versions/Cy13r0pu/CobblemonWikiGui-fabric-2.2.1%2B1.21.1.jar"

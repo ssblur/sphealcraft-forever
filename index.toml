@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "7d0c3e68465db061d57e3d2605eeececaa061d6b18dabd6968fcd7fa2ceb7bce"
+hash = "c1d1f034c41431dca1839896c75959823c198221150927fff874628a51b3ce31"
 metafile = true
 
 [[files]]
@@ -622,17 +622,17 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "c48b5f8a4bd794dfe1ac97a4245616aa63376743980b8cfc4b82f646ba1d56d8"
+hash = "92a4be4357603c21b562b8c195e86a48eb61782e35c1036fd32ddb88d318e146"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-challenge-reborn.pw.toml"
-hash = "5c349b53d09481e34164ce648e26a7455c5c1ba0558c7325ee095f45057d6b5a"
+hash = "83d1a997dec3991051d182defc5db3c8b03721e83f1ce5273f3dd5de1d76b8ef"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-challenge.pw.toml"
-hash = "94134e611812d608142c20647b5e3d0ffade2afc7a0b75b72990899063266676"
+hash = "80f3e845876cb0f2a2d8f06c1100f56ef1ff8f4f87c5c8a642673a0250697610"
 metafile = true
 
 [[files]]
@@ -667,22 +667,22 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-release-rewards.pw.toml"
-hash = "05d04e74af3e2bbf16f16da818be796a70797e410214274cd4fa975e60e51c39"
+hash = "660265c03dfc9f5fa8a6b9f5e93086b185a28e77c8acc812481527c2d58b1ef5"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-safepastures.pw.toml"
-hash = "5d00637a23df408f908b466202ffca7d255c8d1bd293b9a6ba9a002a691c5fbf"
+hash = "4c19342aeb0abcfe566b38d62724a721881bf365b32293107959757fb8e48050"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-shiny-days.pw.toml"
-hash = "39cc7fc93503ff8eea6ad5ce3f96b403140fdf3b5990195d0b3593e30848f978"
+hash = "a0d203c89d40aa80fabca6f27a4a677cf6f155f256fa581aa5b1d138f97ed311"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-size-variations.pw.toml"
-hash = "6d2fe657b80c42fd13752b78857156613fd11a47dc334a4033cd15065da6a0b2"
+hash = "faa511b494c47bd9ade4ac0132a5123c0779991d70e47b17e2eacaa4f79b6c19"
 metafile = true
 
 [[files]]
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-wiki-gui.pw.toml"
-hash = "2b5e7ecb86dff84bc56336b26a10459c92538cd5a9ce7f6eaaee2cf375eb78e5"
+hash = "72b7fd6ba45d0ab468c4be6caab4cbd1a5c57c59b7cde7158482bd438da0d4ba"
 metafile = true
 
 [[files]]
@@ -747,12 +747,12 @@ metafile = true
 
 [[files]]
 file = "mods/dusks-biomes-mod.pw.toml"
-hash = "79b36e2d714dff3f8991ad89d7d17f1fea7f84f739c3d77d0f633ec981bd41ef"
+hash = "5f4e17a5fb27eff3105ec285a287b99bf138211e649cbe94d532c9e615b08693"
 metafile = true
 
 [[files]]
 file = "mods/dusks-biomes.pw.toml"
-hash = "79b36e2d714dff3f8991ad89d7d17f1fea7f84f739c3d77d0f633ec981bd41ef"
+hash = "5f4e17a5fb27eff3105ec285a287b99bf138211e649cbe94d532c9e615b08693"
 metafile = true
 
 [[files]]
@@ -807,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/impactor.pw.toml"
-hash = "c596ea90d30e90902ae992b2deea73bf87e0d3707e77fa15f8182fab335effe4"
+hash = "3db4d6fb9084b8fc513fed4ebc9fb86aac02fabf777ef505f43077f42764f2e0"
 metafile = true
 
 [[files]]
@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/keep-my-soil-tilled.pw.toml"
-hash = "3bde12aa925f6bf027cf5f2bce1392cb0f3a0498d9d423933d702f2638f16065"
+hash = "58e9587658d73e49b00dc998328ee12f1c155784da6effb50e36683ca2f3e37e"
 metafile = true
 
 [[files]]
@@ -952,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/quickleafdecay.pw.toml"
-hash = "b17716216fb79c7c2bf9f34ae4c63d6023f5601902b9e2e0f04912e5351f5179"
+hash = "79947af405c68c0b68f61f730831b0df0cefd3a7b4f9517355931467fe2aca06"
 metafile = true
 
 [[files]]
@@ -972,7 +972,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "5770dada9f2acbb5eb2220919e4252180d18f48cd1f02e676fb5b608fdcd7df1"
+hash = "455a34aef3c152e816f3cd39306e943ec5afc714cf6e38ef41fd5a30daac276d"
 metafile = true
 
 [[files]]

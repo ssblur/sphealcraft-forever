@@ -1,6 +1,6 @@
 name = "RightClickHarvest"
 filename = "rightclickharvest-fabric-4.6.0+1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Cnejf5xM/versions/hF1oSSHU/rightclickharvest-fabric-4.6.0%2B1.21.1.jar"
