@@ -621,11 +621,6 @@ hash = "bd797d76ada01e718630cab12be8559c0f920a9c03fd3a8281df4a604f50f68e"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "92a4be4357603c21b562b8c195e86a48eb61782e35c1036fd32ddb88d318e146"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-challenge-reborn.pw.toml"
 hash = "83d1a997dec3991051d182defc5db3c8b03721e83f1ce5273f3dd5de1d76b8ef"
 metafile = true
