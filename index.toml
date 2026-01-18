@@ -671,11 +671,6 @@ hash = "05d04e74af3e2bbf16f16da818be796a70797e410214274cd4fa975e60e51c39"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-ride-on.pw.toml"
-hash = "83b653139fd115cebf5017264a5b11b18f1f9d2d3685c08bea7aa6bbc6554f7c"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-safepastures.pw.toml"
 hash = "5d00637a23df408f908b466202ffca7d255c8d1bd293b9a6ba9a002a691c5fbf"
 metafile = true
@@ -703,11 +698,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-unchained.pw.toml"
 hash = "82a9efa9ac89d8cc0c3418b661c8225b5b83c72f4c60a77a26e0104ecfcb594e"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-unimplemented-items.pw.toml"
-hash = "b6a5853ed6d66701fc7e351b2d2b455d6fccca0c97815e5c8c236f76fbdd9ace"
 metafile = true
 
 [[files]]
