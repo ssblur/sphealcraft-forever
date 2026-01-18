@@ -1,13 +1,13 @@
 name = "Cobblemon Shiny Days"
-filename = "CobblemonShinyDays-1.0.2-fabric.jar"
+filename = "CobblemonShinyDays-1.1.0-fabric.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Gx07Bguy/versions/5EQlasyA/CobblemonShinyDays-1.0.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/Gx07Bguy/versions/ZTo2yMf1/CobblemonShinyDays-1.1.0-fabric.jar"
 hash-format = "sha512"
-hash = "30878371c4c8486fb2cdd79eb4765e838df7ee0ea439f140b9f1f41a021f2b4ccdc5a64a87e57329661a236a47da329760e2b4f9e4ef4d9e048e8b3eb873edea"
+hash = "9f72cbe7292a6da172f67f826ad4abdb020828d61d3dc835b06f1822f99cca9fdb8bfcebcb8f5005bf9c925c621583aef498c3866bd498eb5986bb8d2857c54a"
 
 [update]
 [update.modrinth]
 mod-id = "Gx07Bguy"
-version = "5EQlasyA"
+version = "ZTo2yMf1"

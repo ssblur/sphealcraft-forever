@@ -1,13 +1,13 @@
 name = "Distant Friends"
-filename = "DistantFriends-fabric-1.21.1-0.9.2.jar"
+filename = "DistantFriends-fabric-1.21.1-0.9.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CDaJ8xGu/versions/bvDmKqGP/DistantFriends-fabric-1.21.1-0.9.2.jar"
+url = "https://cdn.modrinth.com/data/CDaJ8xGu/versions/KKvBUnZ2/DistantFriends-fabric-1.21.1-0.9.5.jar"
 hash-format = "sha512"
-hash = "82978fefcf4913e4fc64d4b20a4ebe8a8d42a34f6d0ecebe41289ba12501c26f0c3df52d605660dfbb3b59f74c50f768908d1a277c49e3f86e68a16d97e83439"
+hash = "7d874958b8eff8a0e43eb9b46ab089d0f288a9c868ff66c5eacf09018fefc7f933fc13898cd7f433cee8202d4fb3a9d1f36d2ab453253a393b37f3901cf035bb"
 
 [update]
 [update.modrinth]
 mod-id = "CDaJ8xGu"
-version = "bvDmKqGP"
+version = "KKvBUnZ2"
