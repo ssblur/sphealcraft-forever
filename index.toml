@@ -676,11 +676,6 @@ hash = "4c19342aeb0abcfe566b38d62724a721881bf365b32293107959757fb8e48050"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-shiny-days.pw.toml"
-hash = "a0d203c89d40aa80fabca6f27a4a677cf6f155f256fa581aa5b1d138f97ed311"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-size-variations.pw.toml"
 hash = "faa511b494c47bd9ade4ac0132a5123c0779991d70e47b17e2eacaa4f79b6c19"
 metafile = true
