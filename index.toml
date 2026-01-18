@@ -786,11 +786,6 @@ hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
-file = "mods/faes-cobblemizer.pw.toml"
-hash = "638ab2ef08b73dbdd1eb5e1350832000e51acd08233cb80cf6eae31f6cd32a32"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
