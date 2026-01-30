@@ -1,12 +1,12 @@
 name = "SphealCraft Forever"
 author = "it's blur"
-version = "1.3.1"
+version = "1.3.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "84e63242a6f3d6364524a513f481d1efc2c6ac026eeb5fd270bcfc6d4f7d6b44"
+hash = "372b1e71becc51d954269eea94b7f62304f5bb00083f263dfe5563fcc2c30c1d"
 
 [versions]
 fabric = "0.18.4"
