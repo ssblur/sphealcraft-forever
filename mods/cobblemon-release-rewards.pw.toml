@@ -1,6 +1,6 @@
 name = "Cobblemon: Parting Gifts"
 filename = "releaserewards-fabric-3.0.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Qx6M2WkT/versions/Oc2ZThAk/releaserewards-fabric-3.0.1.jar"
