@@ -1,13 +1,13 @@
 name = "Dusks Biomes"
-filename = "dusks_biomes-1.2.2.jar"
+filename = "dusks_biomes-1.2.3+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/98sJC4ux/versions/oTIiS1KX/dusks_biomes-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/98sJC4ux/versions/YYduHHQz/dusks_biomes-1.2.3%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "514e0c0535185772eb3bd825533a6e604592a679fbf037b0e292caaf28d901d7a6ad0c4b85fe1e1815688fa0911bb336cb02e2d976cfbda9b03bd432c6b04d75"
+hash = "8133527f713f0c24af95e5360aa4fb0859f79148b69735d9d984f26faebedfe8817acd1b62c2e7351bcb637519cbef9c8968bdb35c24faf10915a3d174333fef"
 
 [update]
 [update.modrinth]
 mod-id = "98sJC4ux"
-version = "oTIiS1KX"
+version = "YYduHHQz"
