@@ -1,13 +1,13 @@
 name = "Cobblemon Paleontology"
-filename = "cobblemon-paleontologist-0.4.0-Beta.jar"
+filename = "cobblemon-paleontologist-0.7.3-Beta.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tbBs6vYE/versions/aeCqkUas/cobblemon-paleontologist-0.4.0-Beta.jar"
+url = "https://cdn.modrinth.com/data/tbBs6vYE/versions/PqpzuIVb/cobblemon-paleontologist-0.7.3-Beta.jar"
 hash-format = "sha512"
-hash = "b8f984cc9466317caeb33498aa8ea329ce219bd525f9d35ce6d91f058fb0d68bf13b94c17975d18479b52e2f028632c5906b907cded4ad1acf24db253c9917c1"
+hash = "26263f507751f60ec32dd1c1e8d3fc03e273aa3a54fc6c9c121cdec62a59a271daa7c84556bf7d3dbe1b7fff959e6c46161a1707334398d409fbce5547c9cdc5"
 
 [update]
 [update.modrinth]
 mod-id = "tbBs6vYE"
-version = "aeCqkUas"
+version = "PqpzuIVb"
