@@ -1135,7 +1135,3 @@ metafile = true
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.4.zip"
 hash = "13af6c439ef8651916b18d2d658f134b07ce3c2e835d23d37d5d24c5d43284de"
-
-[[files]]
-file = "update.sh"
-hash = "9fcea56386e7b32343ac6916948c0546e5deb72500d85a1c14930abcf7e67302"
